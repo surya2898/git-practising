@@ -1,1 +1,1 @@
-Implemented second page and extended that to external features
+Implemented second page and imported corrupted ones.
